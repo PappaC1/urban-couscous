@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+pdfplumber
+beautifulsoup4
+requests
+lxml
+openpyxl
